@@ -16,3 +16,4 @@ console.log("%c599-91-90-49", "color: red;");
 // ამის ჩაწერაც ქვემოთ როგორც მაქ შეიძლებოდა მასე მარა ლამაზი არიყო :/
 // console.log(firstName , lastName , age , email , phoneNumber);
 
+
